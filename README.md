@@ -16,8 +16,7 @@ Interactive Sales & Profit Dashboard built in Excel. It provides key insights in
 Provide business users with a quick and clear view of sales performance, customer behavior, and profit trends.
 
 ## 📸 Dashboard Preview
-![Dashboard](Sales%20and%20Profit.GIF)
-
-##File
-[Download Sales&Profit Dashboard](./Sales&ProfitDashboard.pbix)
+![Dashboard Demo](Sales%20and%20Profit.gif)
+## File
+[Download Sales&Profit Dashboard](./Sales%20&%20Profit%20Dashboard)
 
